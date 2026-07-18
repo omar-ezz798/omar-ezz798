@@ -21,6 +21,15 @@ I enjoy designing intelligent engineering solutions by combining hardware and so
 
 🚀 I enjoy developing practical engineering projects that combine electronics, programming, and intelligent algorithms.
 
+## 💡 Core Competencies
+
+- Embedded Systems
+- Internet of Things (IoT)
+- Artificial Intelligence
+- Industrial Automation
+- Electronics Design
+- Microcontrollers
+
 ---
 
 # 🚀 Current Interests
@@ -35,7 +44,7 @@ I enjoy designing intelligent engineering solutions by combining hardware and so
 ---
 
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 <p>
 
@@ -140,17 +149,13 @@ I am currently seeking internship opportunities where I can contribute to innova
 ---
 # 📫 Connect With Me
 
-💼 LinkedIn
+💼 LinkedIn : https://linkedin.com/in/omar-ez-zakry-0106a436b
 
-https://linkedin.com/in/omar-ez-zakry-0106a436b
-
-🐙 GitHub
-
-https://github.com/omar-ezz798
+🐙 GitHub : https://github.com/omar-ezz798
 
 ---
 
-# ⚡ 2026 Goals
+# ⚡ Professional Goals
 
 - Complete my Master's Degree
 - Build professional Embedded Systems projects
