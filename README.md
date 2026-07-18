@@ -1,50 +1,151 @@
-# Hi there 👋, I'm Omar Ez-Zakry
+<h1 align="center">Hi 👋, I'm Omar Ez-Zakry</h1>
 
-## 🎓 About Me
+<h3 align="center">
+Embedded Systems • IoT • Artificial Intelligence • Electronics
+</h3>
 
-🎓 Electronics & Industrial Informatics Student
+<p align="center">
+Passionate about Embedded Systems, Industrial Automation, and Artificial Intelligence.<br>
+I enjoy designing intelligent engineering solutions by combining hardware and software.
+</p>
 
-💻 Passionate about Embedded Systems and IoT
+---
 
-🌱 Currently learning:
+# 👨‍💻 About Me
+
+🎓 Bachelor's Graduate in **Electronics and Industrial Informatics** from **Chouaib Doukkali University (Morocco).**
+
+📚 Preparing to begin a **Master's Degree in Embedded Electronics and Industrial Informatics.**
+
+💡 I am passionate about Embedded Systems, Internet of Things (IoT), Industrial Automation, Smart Energy Systems, and Artificial Intelligence.
+
+🚀 I enjoy developing practical engineering projects that combine electronics, programming, and intelligent algorithms.
+
+---
+
+# 🚀 Current Interests
+
+- Embedded Systems
+- Internet of Things (IoT)
+- Artificial Intelligence
+- Industrial Automation
+- Smart Grids
+- Renewable Energy
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming Languages
+
+- C
+- C++
+- Python
+- Embedded C
+
+### Embedded Systems
+
+- ESP32
+- Arduino
+- Sensors & Instrumentation
+- UART
+- I2C
+- SPI
+
+### Engineering Software
+
+- MATLAB
+- Simulink
+- PSPICE
+- PVsyst
+
+### Development Tools
+
+- Git
+- GitHub
+- Arduino IDE
+- VS Code
+
+---
+
+# 🌱 Currently Learning
+
 - STM32
 - Linux
 - Docker
-- Artificial Intelligence
+- Embedded Linux
+- AI for Embedded Systems
 
-🚀 Interested in:
+---
+
+# 📂 Featured Projects
+
+## 🏠 House Security System
+
+IoT-based smart home security system using ESP32 and Telegram Bot.
+
+**Features**
+
+- Real-time Telegram notifications
+- Door monitoring using Reed Switch
+- Wi-Fi connectivity
+- Buzzer alarm
+- LED status indicators
+
+---
+
+## ⚡ NovaGrid
+
+AI-powered intelligent relay and electrical fault detection system for smart electrical grids.
+
+**Highlights**
+
+- Fault detection (LG, LL, LLG, LLL)
+- Fault distance estimation
+- Simulink simulation
+- AI model training
+- Embedded deployment
+- IEC-oriented protection
+
+---
+
+# 🎯 Career Objective
+
+I am currently seeking internship opportunities where I can contribute to innovative engineering projects while strengthening my expertise in:
+
 - Embedded Systems
-- Internet of Things (IoT)
-- Automation
-- AI Applications
+- Artificial Intelligence
+- Industrial IoT
+- Industrial Automation
 
 ---
 
-## 🛠️ Languages & Tools
+# 📫 Connect With Me
 
-- C++
-- Python
-- Arduino
-- ESP32
-- Git
-- GitHub
+💼 LinkedIn
 
----
+https://linkedin.com/in/omar-ez-zakry-0106a436b
 
-## 📌 Featured Project
+🐙 GitHub
 
-### 🏠 House Security System
-
-An ESP32-based smart home security system with Telegram Bot notifications.
-
-🔗 Check it out in my repositories!
+https://github.com/omar-ezz798
 
 ---
 
-## 📫 Connect with Me
+# ⚡ 2026 Goals
 
-- 💼 LinkedIn: https://linkedin.com/in/omar-ez-zakry-0106a436b
+- Complete my Master's Degree
+- Build professional Embedded Systems projects
+- Master STM32 Development
+- Improve Linux & Docker skills
+- Develop AI-powered Embedded Applications
+- Contribute to Open Source
+- Start my engineering career
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+⭐ Thank you for visiting my GitHub profile!
+
+</p>
