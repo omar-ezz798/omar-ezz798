@@ -36,35 +36,21 @@ I enjoy designing intelligent engineering solutions by combining hardware and so
 
 # 🛠️ Technical Skills
 
-### Programming Languages
 
-- C
-- C++
-- Python
-- Embedded C
+## 🛠️ Technologies & Tools
 
-### Embedded Systems
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode,matlab"/>
+
+</p>
+
+### Other Technologies
 
 - ESP32
-- Arduino
-- Sensors & Instrumentation
-- UART
-- I2C
-- SPI
-
-### Engineering Software
-
-- MATLAB
 - Simulink
 - PSPICE
 - PVsyst
-
-### Development Tools
-
-- Git
-- GitHub
-- Arduino IDE
-- VS Code
 
 ---
 
@@ -119,7 +105,41 @@ I am currently seeking internship opportunities where I can contribute to innova
 - Industrial Automation
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omar-ezz798&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ezz798&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=omar-ezz798&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omar-ezz798&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-ezz798&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 # 📫 Connect With Me
 
 💼 LinkedIn
