@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋, I'm Omar Ez-Zakry
 
-<!--
-**omar-ezz798/omar-ezz798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+🎓 Electronics & Industrial Informatics Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Embedded Systems and IoT
+
+🌱 Currently learning:
+- STM32
+- Linux
+- Docker
+- Artificial Intelligence
+
+🚀 Interested in:
+- Embedded Systems
+- Internet of Things (IoT)
+- Automation
+- AI Applications
+
+---
+
+## 🛠️ Languages & Tools
+
+- C++
+- Python
+- Arduino
+- ESP32
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Project
+
+### 🏠 House Security System
+
+An ESP32-based smart home security system with Telegram Bot notifications.
+
+🔗 Check it out in my repositories!
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn *(Coming Soon)*
+
+---
+
+⭐ Thanks for visiting my profile!
