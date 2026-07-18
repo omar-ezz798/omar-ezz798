@@ -6,51 +6,51 @@ Embedded Systems • IoT • Artificial Intelligence • Electronics
 
 <p align="center">
 Passionate about Embedded Systems, Industrial Automation, and Artificial Intelligence.<br>
-I enjoy designing intelligent engineering solutions by combining hardware and software.
+I enjoy building practical engineering solutions that integrate electronics, embedded programming, and intelligent algorithms.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Bachelor's Graduate in **Electronics and Industrial Informatics** from **Chouaib Doukkali University (Morocco).**
+🎓 Bachelor's Graduate in **Electronics and Industrial Informatics** from **Chouaib Doukkali University, Morocco**.
 
-📚 Preparing to begin a **Master's Degree in Embedded Electronics and Industrial Informatics.**
+📚 Preparing to begin a **Master's Degree in Embedded Electronics and Industrial Informatics**.
 
-💡 I am passionate about Embedded Systems, Internet of Things (IoT), Industrial Automation, Smart Energy Systems, and Artificial Intelligence.
+💡 Passionate about Embedded Systems, Internet of Things (IoT), Artificial Intelligence, Industrial Automation, and Smart Energy Systems.
 
-🚀 I enjoy developing practical engineering projects that combine electronics, programming, and intelligent algorithms.
+🚀 My goal is to design reliable and innovative embedded solutions that solve real-world engineering challenges.
 
 ---
 
-# 🚀 Current Interests
+# 💡 Core Competencies
 
 - Embedded Systems
 - Internet of Things (IoT)
 - Artificial Intelligence
 - Industrial Automation
-- Smart Grids
-- Renewable Energy
+- Electronics Design
+- Microcontrollers
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Technologies & Tools
 
-
-## 🛠️ Technologies & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode,matlab"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode" />
 </p>
 
-### Other Technologies
+### Engineering Software
 
-- ESP32
+- MATLAB
 - Simulink
 - PSPICE
 - PVsyst
+
+### Embedded Platforms
+
+- ESP32
+- Arduino
 
 ---
 
@@ -68,12 +68,12 @@ I enjoy designing intelligent engineering solutions by combining hardware and so
 
 ## 🏠 House Security System
 
-IoT-based smart home security system using ESP32 and Telegram Bot.
+An IoT-based smart home security system built using ESP32 and Telegram Bot.
 
-**Features**
+### Features
 
 - Real-time Telegram notifications
-- Door monitoring using Reed Switch
+- Door monitoring using a Reed Switch
 - Wi-Fi connectivity
 - Buzzer alarm
 - LED status indicators
@@ -82,22 +82,22 @@ IoT-based smart home security system using ESP32 and Telegram Bot.
 
 ## ⚡ NovaGrid
 
-AI-powered intelligent relay and electrical fault detection system for smart electrical grids.
+An AI-powered intelligent relay and electrical fault detection system for smart electrical grids.
 
-**Highlights**
+### Highlights
 
-- Fault detection (LG, LL, LLG, LLL)
+- Electrical fault detection (LG, LL, LLG, LLL)
 - Fault distance estimation
-- Simulink simulation
+- MATLAB / Simulink simulation
 - AI model training
 - Embedded deployment
-- IEC-oriented protection
+- IEC-oriented protection approach
 
 ---
 
 # 🎯 Career Objective
 
-I am currently seeking internship opportunities where I can contribute to innovative engineering projects while strengthening my expertise in:
+I am currently seeking internship opportunities where I can apply my knowledge, contribute to innovative engineering projects, and continue developing my expertise in:
 
 - Embedded Systems
 - Artificial Intelligence
@@ -105,67 +105,34 @@ I am currently seeking internship opportunities where I can contribute to innova
 - Industrial Automation
 
 ---
-## 📊 GitHub Statistics
+
+# 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=omar-ezz798&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ezz798&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=omar-ezz798&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omar-ezz798&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-ezz798&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
+
 # 📫 Connect With Me
 
-💼 LinkedIn
-
-https://linkedin.com/in/omar-ez-zakry-0106a436b
-
-🐙 GitHub
-
-https://github.com/omar-ezz798
+- 💼 LinkedIn: https://linkedin.com/in/omar-ez-zakry-0106a436b
+- 🐙 GitHub: https://github.com/omar-ezz798
 
 ---
 
-# ⚡ 2026 Goals
+# 🎯 Professional Goals
 
-- Complete my Master's Degree
-- Build professional Embedded Systems projects
+- Build impactful Embedded Systems projects
 - Master STM32 Development
 - Improve Linux & Docker skills
 - Develop AI-powered Embedded Applications
 - Contribute to Open Source
-- Start my engineering career
+- Grow as an Embedded Systems Engineer
 
 ---
 
 <p align="center">
-
-⭐ Thank you for visiting my GitHub profile!
-
+⭐ Thanks for visiting my GitHub profile!
 </p>
