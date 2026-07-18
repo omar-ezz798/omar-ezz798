@@ -43,7 +43,7 @@ An ESP32-based smart home security system with Telegram Bot notifications.
 
 ## 📫 Connect with Me
 
-- LinkedIn *(Coming Soon)*
+- 💼 LinkedIn: https://linkedin.com/in/omar-ez-zakry-0106a436b
 
 ---
 
